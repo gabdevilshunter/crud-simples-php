@@ -1,0 +1,127 @@
+[10-Dec-2015 02:16:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/php/form_cadastro.php on line 30
+[10-Dec-2015 02:16:51 UTC] PHP Stack trace:
+[10-Dec-2015 02:16:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:16:51 UTC] PHP   2. mysqli_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:30
+[10-Dec-2015 02:48:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/php/form_cadastro.php on line 63
+[10-Dec-2015 02:48:14 UTC] PHP Stack trace:
+[10-Dec-2015 02:48:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:48:14 UTC] PHP   2. mysqli_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:63
+[10-Dec-2015 02:55:21 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/php/form_cadastro.php on line 56
+[10-Dec-2015 02:55:21 UTC] PHP Stack trace:
+[10-Dec-2015 02:55:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:55:21 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:56
+[10-Dec-2015 02:55:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/php/form_cadastro.php on line 56
+[10-Dec-2015 02:55:21 UTC] PHP Stack trace:
+[10-Dec-2015 02:55:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:55:21 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:56
+[10-Dec-2015 02:56:51 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'gabdevilshunter'@'localhost' (using password: YES) in /home/ubuntu/workspace/php/form_cadastro.php on line 9
+[10-Dec-2015 02:56:51 UTC] PHP Stack trace:
+[10-Dec-2015 02:56:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:56:51 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:9
+[10-Dec-2015 02:56:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/form_cadastro.php on line 41
+[10-Dec-2015 02:56:51 UTC] PHP Stack trace:
+[10-Dec-2015 02:56:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:56:51 UTC] PHP   2. mysqli->query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:41
+[10-Dec-2015 02:56:51 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/php/form_cadastro.php on line 56
+[10-Dec-2015 02:56:51 UTC] PHP Stack trace:
+[10-Dec-2015 02:56:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:56:51 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:56
+[10-Dec-2015 02:56:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/php/form_cadastro.php on line 56
+[10-Dec-2015 02:56:51 UTC] PHP Stack trace:
+[10-Dec-2015 02:56:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:56:51 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:56
+[10-Dec-2015 02:57:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'gabdevilshunter'@'localhost' (using password: YES) in /home/ubuntu/workspace/php/form_cadastro.php on line 9
+[10-Dec-2015 02:57:28 UTC] PHP Stack trace:
+[10-Dec-2015 02:57:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:57:28 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:9
+[10-Dec-2015 02:57:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/form_cadastro.php on line 41
+[10-Dec-2015 02:57:28 UTC] PHP Stack trace:
+[10-Dec-2015 02:57:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:57:28 UTC] PHP   2. mysqli->query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:41
+[10-Dec-2015 02:57:28 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/php/form_cadastro.php on line 56
+[10-Dec-2015 02:57:28 UTC] PHP Stack trace:
+[10-Dec-2015 02:57:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:57:28 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:56
+[10-Dec-2015 02:57:28 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/php/form_cadastro.php on line 56
+[10-Dec-2015 02:57:28 UTC] PHP Stack trace:
+[10-Dec-2015 02:57:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:57:28 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:56
+[10-Dec-2015 02:57:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'gabdevilshunter'@'localhost' (using password: YES) in /home/ubuntu/workspace/php/form_cadastro.php on line 9
+[10-Dec-2015 02:57:42 UTC] PHP Stack trace:
+[10-Dec-2015 02:57:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:57:42 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:9
+[10-Dec-2015 02:57:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/form_cadastro.php on line 41
+[10-Dec-2015 02:57:42 UTC] PHP Stack trace:
+[10-Dec-2015 02:57:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:57:42 UTC] PHP   2. mysqli->query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:41
+[10-Dec-2015 02:57:42 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/php/form_cadastro.php on line 56
+[10-Dec-2015 02:57:42 UTC] PHP Stack trace:
+[10-Dec-2015 02:57:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:57:42 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:56
+[10-Dec-2015 02:57:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/php/form_cadastro.php on line 56
+[10-Dec-2015 02:57:42 UTC] PHP Stack trace:
+[10-Dec-2015 02:57:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:57:42 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:56
+[10-Dec-2015 02:58:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'gabdevilshunter'@'localhost' (using password: YES) in /home/ubuntu/workspace/php/form_cadastro.php on line 9
+[10-Dec-2015 02:58:17 UTC] PHP Stack trace:
+[10-Dec-2015 02:58:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:58:17 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:9
+[10-Dec-2015 02:58:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/form_cadastro.php on line 41
+[10-Dec-2015 02:58:17 UTC] PHP Stack trace:
+[10-Dec-2015 02:58:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 02:58:17 UTC] PHP   2. mysqli->query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:41
+[10-Dec-2015 03:00:11 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/php/form_cadastro.php on line 56
+[10-Dec-2015 03:00:11 UTC] PHP Stack trace:
+[10-Dec-2015 03:00:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 03:00:11 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:56
+[10-Dec-2015 03:00:11 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/php/form_cadastro.php on line 56
+[10-Dec-2015 03:00:11 UTC] PHP Stack trace:
+[10-Dec-2015 03:00:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 03:00:11 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:56
+[10-Dec-2015 03:03:12 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/php/form_cadastro.php on line 41
+[10-Dec-2015 03:03:12 UTC] PHP Stack trace:
+[10-Dec-2015 03:03:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 03:04:22 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/php/form_cadastro.php on line 56
+[10-Dec-2015 03:04:22 UTC] PHP Stack trace:
+[10-Dec-2015 03:04:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 03:04:22 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:56
+[10-Dec-2015 03:04:22 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/php/form_cadastro.php on line 56
+[10-Dec-2015 03:04:22 UTC] PHP Stack trace:
+[10-Dec-2015 03:04:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 03:04:22 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:56
+[10-Dec-2015 03:07:13 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/php/form_cadastro.php on line 56
+[10-Dec-2015 03:07:13 UTC] PHP Stack trace:
+[10-Dec-2015 03:07:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 03:07:13 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:56
+[10-Dec-2015 03:07:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/php/form_cadastro.php on line 56
+[10-Dec-2015 03:07:13 UTC] PHP Stack trace:
+[10-Dec-2015 03:07:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 03:07:13 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:56
+[10-Dec-2015 03:12:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'gabdevilshunter'@'localhost' (using password: YES) in /home/ubuntu/workspace/php/form_cadastro.php on line 9
+[10-Dec-2015 03:12:47 UTC] PHP Stack trace:
+[10-Dec-2015 03:12:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 03:12:47 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:9
+[10-Dec-2015 03:22:56 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/php/form_cadastro.php on line 52
+[10-Dec-2015 03:22:56 UTC] PHP Stack trace:
+[10-Dec-2015 03:22:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 03:22:56 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:52
+[10-Dec-2015 03:22:56 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/php/form_cadastro.php on line 52
+[10-Dec-2015 03:22:56 UTC] PHP Stack trace:
+[10-Dec-2015 03:22:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 03:22:56 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:52
+[10-Dec-2015 03:24:58 UTC] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/php/form_cadastro.php on line 9
+[10-Dec-2015 03:24:58 UTC] PHP Stack trace:
+[10-Dec-2015 03:24:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 03:24:58 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:9
+[10-Dec-2015 03:24:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/php/form_cadastro.php on line 9
+[10-Dec-2015 03:24:58 UTC] PHP Stack trace:
+[10-Dec-2015 03:24:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 03:24:58 UTC] PHP   2. mysqli->mysqli(*uninitialized*, *uninitialized*, *uninitialized*, *uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:9
+[10-Dec-2015 03:25:35 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/php/form_cadastro.php on line 52
+[10-Dec-2015 03:25:35 UTC] PHP Stack trace:
+[10-Dec-2015 03:25:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 03:25:35 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:52
+[10-Dec-2015 03:25:35 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/php/form_cadastro.php on line 52
+[10-Dec-2015 03:25:35 UTC] PHP Stack trace:
+[10-Dec-2015 03:25:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/form_cadastro.php:0
+[10-Dec-2015 03:25:35 UTC] PHP   2. mysql_query(*uninitialized*) /home/ubuntu/workspace/php/form_cadastro.php:52

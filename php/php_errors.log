@@ -1,0 +1,98 @@
+[11-Dec-2015 01:45:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/php/crud.class.php on line 102
+[11-Dec-2015 01:45:05 UTC] PHP Stack trace:
+[11-Dec-2015 01:45:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/compra/lista_compra.php:0
+[11-Dec-2015 01:59:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/php/crud.class.php on line 102
+[11-Dec-2015 01:59:10 UTC] PHP Stack trace:
+[11-Dec-2015 01:59:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/compra/lista_compra.php:0
+[11-Dec-2015 01:59:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/compra/lista_compra.php on line 44
+[11-Dec-2015 01:59:58 UTC] PHP Stack trace:
+[11-Dec-2015 01:59:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/compra/lista_compra.php:0
+[11-Dec-2015 01:59:58 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/compra/lista_compra.php:44
+[11-Dec-2015 02:02:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/compra/lista_compra.php on line 77
+[11-Dec-2015 02:02:53 UTC] PHP Stack trace:
+[11-Dec-2015 02:02:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/compra/lista_compra.php:0
+[11-Dec-2015 02:02:53 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/compra/lista_compra.php:77
+[11-Dec-2015 02:03:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/compra/lista_compra.php on line 77
+[11-Dec-2015 02:03:35 UTC] PHP Stack trace:
+[11-Dec-2015 02:03:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/compra/lista_compra.php:0
+[11-Dec-2015 02:03:35 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/compra/lista_compra.php:77
+[11-Dec-2015 02:45:52 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/ubuntu/workspace/php/contact/lista_contact.php on line 103
+[11-Dec-2015 03:18:53 UTC] PHP Warning:  require_once(config/conexao.class.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 2
+[11-Dec-2015 03:18:53 UTC] PHP Stack trace:
+[11-Dec-2015 03:18:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:18:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'config/conexao.class.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 2
+[11-Dec-2015 03:18:53 UTC] PHP Stack trace:
+[11-Dec-2015 03:18:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:21:12 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 10
+[11-Dec-2015 03:21:12 UTC] PHP Stack trace:
+[11-Dec-2015 03:21:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:21:12 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:10
+[11-Dec-2015 03:33:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 10
+[11-Dec-2015 03:33:59 UTC] PHP Stack trace:
+[11-Dec-2015 03:33:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:33:59 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:10
+[11-Dec-2015 03:34:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 10
+[11-Dec-2015 03:34:41 UTC] PHP Stack trace:
+[11-Dec-2015 03:34:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:34:41 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:10
+[11-Dec-2015 03:36:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 10
+[11-Dec-2015 03:36:29 UTC] PHP Stack trace:
+[11-Dec-2015 03:36:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:36:29 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:10
+[11-Dec-2015 03:39:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 11
+[11-Dec-2015 03:39:36 UTC] PHP Stack trace:
+[11-Dec-2015 03:39:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:39:36 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:11
+[11-Dec-2015 03:41:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 11
+[11-Dec-2015 03:41:26 UTC] PHP Stack trace:
+[11-Dec-2015 03:41:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:41:26 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:11
+[11-Dec-2015 03:41:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 11
+[11-Dec-2015 03:41:43 UTC] PHP Stack trace:
+[11-Dec-2015 03:41:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:41:43 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:11
+[11-Dec-2015 03:42:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 11
+[11-Dec-2015 03:42:21 UTC] PHP Stack trace:
+[11-Dec-2015 03:42:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:42:21 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:11
+[11-Dec-2015 03:46:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 10
+[11-Dec-2015 03:46:42 UTC] PHP Stack trace:
+[11-Dec-2015 03:46:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:46:42 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:10
+[11-Dec-2015 03:48:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 10
+[11-Dec-2015 03:48:01 UTC] PHP Stack trace:
+[11-Dec-2015 03:48:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:48:01 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:10
+[11-Dec-2015 03:48:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 10
+[11-Dec-2015 03:48:25 UTC] PHP Stack trace:
+[11-Dec-2015 03:48:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:48:25 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:10
+[11-Dec-2015 03:49:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 10
+[11-Dec-2015 03:49:32 UTC] PHP Stack trace:
+[11-Dec-2015 03:49:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:49:32 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:10
+[11-Dec-2015 03:49:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 10
+[11-Dec-2015 03:49:50 UTC] PHP Stack trace:
+[11-Dec-2015 03:49:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:49:50 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:10
+[11-Dec-2015 03:50:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 10
+[11-Dec-2015 03:50:08 UTC] PHP Stack trace:
+[11-Dec-2015 03:50:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:50:08 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:10
+[11-Dec-2015 03:50:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php on line 10
+[11-Dec-2015 03:50:20 UTC] PHP Stack trace:
+[11-Dec-2015 03:50:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:0
+[11-Dec-2015 03:50:20 UTC] PHP   2. mysql_fetch_array(*uninitialized*) /home/ubuntu/workspace/php/cadastro/formulario_cadastro.php:10
+[11-Dec-2015 05:33:36 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/ubuntu/workspace/php/compra/formulario_compra.php on line 105
+[18-Feb-2016 04:44:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/php/cadastro/lista_cadastro.php on line 53
+[18-Feb-2016 04:44:01 UTC] PHP Stack trace:
+[18-Feb-2016 04:44:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/lista_cadastro.php:0
+[18-Feb-2016 04:44:01 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/php/cadastro/lista_cadastro.php:53
+[18-Feb-2016 04:44:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/php/cadastro/lista_cadastro.php on line 53
+[18-Feb-2016 04:44:01 UTC] PHP Stack trace:
+[18-Feb-2016 04:44:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/lista_cadastro.php:0
+[18-Feb-2016 04:44:01 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/php/cadastro/lista_cadastro.php:53
+[18-Feb-2016 04:44:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/php/cadastro/lista_cadastro.php on line 54
+[18-Feb-2016 04:44:01 UTC] PHP Stack trace:
+[18-Feb-2016 04:44:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/cadastro/lista_cadastro.php:0
+[18-Feb-2016 04:44:01 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/php/cadastro/lista_cadastro.php:54
