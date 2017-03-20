@@ -21,13 +21,13 @@ Then, you need import to your mysql-server a db-dump located in the folder "db_d
     apt-get -y install php5 php5-mysql curl libcurl3 libcurl3-dev php5-curl
     service apache2 reload
 
-After that, put the "crud-simples-php" folder inside the "/var/www/html" (if your apache2 still remains in the default's) and access the page typing "localhost/crud-simples-php" at your host machine.
+After that, put the "simple-crud-php" folder inside the "/var/www/html" (if your apache2 still remains in the default's) and access the page typing "localhost/simple-crud-php" at your host machine.
 
 ## For Windows
 
 The best way to code simulating a LAMP environment on Windows is installing the [XAMPP](https://www.apachefriends.org/pt_br/index.html)
 application.
 
-After that, put the "crud-simples-php" folder inside the "xampp/htdocs" folder (if your XAMPP still remains in the default's) and access the page typing "localhost/crud-simples-php" at your host machine.
+After that, put the "simple-crud-php" folder inside the "xampp/htdocs" folder (if your XAMPP still remains in the default's) and access the page typing "localhost/simple-crud-php" at your host machine.
 
 You need import to your mysql-server a db-dump located in the folder "db_dump" inside the project to finish your database configuration.
