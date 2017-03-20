@@ -13,7 +13,8 @@
     apt-get install -y apache2
 ### MySQL
     apt-get update
-    apt-get -y install mysql-client mysql-server  
+    apt-get -y install mysql-client mysql-server
+Then, you need import to your mysql-server a db-dump located in the folder "db_dump" inside the project to finish your database configuration.
 ### PHP
     add-apt-repository -y ppa:ondrej/php5-oldstable
     apt-get update
@@ -28,3 +29,5 @@ The best way to code simulating a LAMP environment on Windows is installing the 
 application.
 
 After that, put the "crud-simples-php" folder inside the "xampp/htdocs" folder (if your XAMPP still remains in the default's) and access the page typing "localhost/crud-simples-php" at your host machine.
+
+You need import to your mysql-server a db-dump located in the folder "db_dump" inside the project to finish your database configuration.
