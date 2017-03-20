@@ -1,2 +1,30 @@
-# crud-simples-php
-A simple application showing a php crud and a list of the DB entries.
+# Simple PHP-CRUD Application
+
+### You Will Need Installed
+
+* PHP
+* MySQL
+* Apache2
+
+## For Ubuntu/Debian
+
+### Apache2
+    apt-get update
+    apt-get install -y apache2
+### MySQL
+    apt-get update
+    apt-get -y install mysql-client mysql-server  
+### PHP
+    add-apt-repository -y ppa:ondrej/php5-oldstable
+    apt-get update
+    apt-get -y install php5 php5-mysql curl libcurl3 libcurl3-dev php5-curl
+    service apache2 reload
+
+After that, put the "crud-simples-php" folder inside the "/var/www/html" (if your apache2 still remains in the default's) and access the page typing "localhost/crud-simples-php" at your host machine.
+
+## For Windows
+
+The best way to code simulating a LAMP environment on Windows is installing the [XAMPP](https://www.apachefriends.org/pt_br/index.html)
+application.
+
+After that, put the "crud-simples-php" folder inside the "xampp/htdocs" folder (if your XAMPP still remains in the default's) and access the page typing "localhost/crud-simples-php" at your host machine.
